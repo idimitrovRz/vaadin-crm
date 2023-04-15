@@ -1,10 +1,10 @@
-# This project is inspired by:
-https://github.com/vaadin/flow-crm-tutorial
-https://www.youtube.com/watch?v=bxy2JgqqKDU
+# Important information:
+This project is inspired by:
+- https://github.com/vaadin/flow-crm-tutorial
+- https://www.youtube.com/watch?v=bxy2JgqqKDU
 
-# The main idea is to learn the Vaadim framework
-
-# This file is copy-paste of the original one from the tutorial
+The main goal is to learn the Vaadim framework by following the available tutorials.
+This file is copy-paste of the original one from the tutorial.
 
 # Flow CRM Tutorial
 
