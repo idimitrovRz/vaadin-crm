@@ -1,3 +1,11 @@
+# This project is inspired by:
+https://github.com/vaadin/flow-crm-tutorial
+https://www.youtube.com/watch?v=bxy2JgqqKDU
+
+# The main idea is to learn the Vaadim framework
+
+# This file is copy-paste of the original one from the tutorial
+
 # Flow CRM Tutorial
 
 This project can be used as a starting point to create your own Vaadin application with Spring Boot.
